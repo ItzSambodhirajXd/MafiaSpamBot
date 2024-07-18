@@ -52,4 +52,4 @@ async def ustop(e):
     if e.sender_id in MY_USERS:
         global a
         a = False
-        await e.client.send_message(e.chat_id, "Porn Spam Stopped Successfully")
+        await e.client.send_message(e.chat_id, "Pom Pom Spam Stopped Successfully")
