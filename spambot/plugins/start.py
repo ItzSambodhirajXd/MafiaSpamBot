@@ -4,9 +4,9 @@ from telethon import events, Button
 
 
 data  = [
-    Button.url("Channel", url="t.me/ABOUT_SAMBODHIRAJ"),
-    Button.url("Repo", url="https://t.me/Team_Heartless_Fed"),
-    Button.url("Group", url="https://t.me/+T7UFIlflxTE5ZWE1")
+    Button.url("Channel", url="https://t.me/ITZ_STAR_BOY"),
+    Button.url("Repo", url="https://t.me/ITZ_STAR_BOY"),
+    Button.url("Group", url="https://t.me/ITZ_STAR_BOY")
 ]
 
 
