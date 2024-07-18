@@ -17,8 +17,8 @@ Buttons = [
     Button.inline("Extras", b'extras'),
     Button.inline("Heroku", b'heroku')
 ], [
-    Button.url("Channel", "t.me/MafiaBot_Support"),
-    Button.url("Group", "t.me/MafiaBot_ChitChat")
+    Button.url("Channel", "t.me/ITZ_STAR_BOY"),
+    Button.url("Group", "t.me/ITZ_STAR_BOY")
 ]
 
 BACK = [
