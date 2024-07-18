@@ -30,13 +30,13 @@ async def start(e):
         ON_START = f"""
 Hey {mention},
 
-This Is LadkiBaaz Spam Bot!
+𝐓𝐇𝐈𝐒 𝐈𝐒 𝐒𝐀𝐌𝐁𝐎𝐃𝐇𝐈𝐑𝐀𝐉 𝐎𝐏 𝐒𝐏𝐀𝐌𝐁𝐎𝐓 
 
-Owner:- {myOwner}
+𝐎𝐖𝐍𝐄𝐑:- {myOwner}
 
-Sudo:- {sudo_user}
+𝐒𝐔𝐃𝐎:- {sudo_user}
 
-Creator:- {creator}
+𝐂𝐑𝐄𝐀𝐓𝐎𝐑:- {creator}
     """
         await e.client.send_file(e.chat_id, DISPLAY_PIC, caption=ON_START, buttons=data)
 
