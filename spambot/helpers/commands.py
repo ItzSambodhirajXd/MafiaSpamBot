@@ -62,6 +62,6 @@ To Add Extra Modules In Spam Bot! Only Work In Master Bot (Master Bot: Which Run
 """
 HEROKU_CMD = """
 To Access Heroku Features Using Bot!
-✮ `/restart` - To Restart All Dynos Of Mafia Spam Userbot! - `(SUDO:- True)`
-✮ `/logs` - To Get Heroku Logs Of Mafia Spam Userbot! - `(SUDO:- True)`
+✮ `/restart` - To Restart All Dynos Of StarBoy Spam Userbot! - `(SUDO:- True)`
+✮ `/logs` - To Get Heroku Logs Of StarBoy Spam Userbot! - `(SUDO:- True)`
 """
